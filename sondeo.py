@@ -1,7 +1,11 @@
 '''
 Herramienta de escaneo de red en Python con Nmap.
-Más información en 
-https://docs.google.com/presentation/d/14fH11DQLAu_p1qIcVcdn3H2C7IrMUksefakkMdR0nD4/edit?usp=sharing
+
+Debes visualizar el siguiente vídeo explicativo antes de la clase: https://youtu.be/p6HBjD8TPpA
+
+Recursos
+Presentación de apoyo: docs.google.com/presentation/d/14fH11DQLAu_p1qIcVcdn3H2C7IrMUksefakkMdR0nD4
+Código fuente de sondeo.py y más documentación: https://github.com/jesusferrextec/Sondeo
 
 
 Este script obtiene las IPs de las interfaces del equipo y permite al usuario:
