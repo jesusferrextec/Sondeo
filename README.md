@@ -12,6 +12,18 @@
 **Edición y Curso Académico:** Octubre 2024-2025  
 **Convocatoria:** Primera  
 
+## Recursos
+
+Debes visualizar el siguiente vídeo explicativo antes de la clase:  
+[Vídeo explicativo](https://youtu.be/p6HBjD8TPpA)
+
+Código fuente de `sondeo.py` y más documentación:  
+[Repositorio en GitHub](https://github.com/jesusferrextec/Sondeo)
+
+Presentación de apoyo:  
+[Presentación en Google Slides](https://docs.google.com/presentation/d/14fH11DQLAu_p1qIcVcdn3H2C7IrMUksefakkMdR0nD4)
+
+
 ## Índice  
 1. [Objetivo de la Actividad](#objetivo-de-la-actividad)  
 2. [Justificación](#justificación)  
